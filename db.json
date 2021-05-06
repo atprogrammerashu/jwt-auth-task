@@ -1,0 +1,35 @@
+{
+  "signup": [
+    {
+      "username": "ashu",
+      "email": "ashukeshri786@gmail.com",
+      "password": "123456",
+      "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0aG9tYXNna3oiLCJpYXQiOjE1Mzc2MDMxOTUsImV4cCI6MTUzNzY4OTU5NX0.m2YMjTYmOnfR7nnVNxqCzWbQ2FhKRe1eiizxnC2TF4eAoEzKlwo7PheVkKcxj08ST3vB-ZOIhiORvYVfSgzcog",
+      "id": 5
+    },
+    {
+      "username": "kaka",
+      "email": "kaka@gmail.com",
+      "password": "123456",
+      "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0aG9tYXNna3oiLCJpYXQiOjE1Mzc2MDMxOTUsImV4cCI6MTUzNzY4OTU5NX0.m2YMjTYmOnfR7nnVNxqCzWbQ2FhKRe1eiizxnC2TF4eAoEzKlwo7PheVkKcxj08ST3vB-ZOIhiORvYVfSgzcog",
+      "id": 6
+    }
+  ],
+  "signin": [
+    {
+      "username": "ashu",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "ashu",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "all": [
+    {
+      "Topic": "Jwt task"
+    }
+  ]
+}
